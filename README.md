@@ -1,0 +1,2 @@
+# recriar pg qrcode
+ 
